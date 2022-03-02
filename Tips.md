@@ -3,6 +3,7 @@ https://github.com/Klerith/curso-VSCode
 https://github.com/Klerith/curso-VSCode/releases
 
 Atajos Teclado:
+shift+alt+up/down: REPETIR/COPIAR LINEA
 Menu View--> command palette --> escribir ppor ejemplo: move y se verán los atajos
 Orden ascendente: escribir: asc y seleccionar Sort Lines Ascendenting
 Alt+flechas: mueve la línea abajo o arriba
